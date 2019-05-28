@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarDemo.Android", "CalendarDemo\CalendarDemo.Android\CalendarDemo.Android.csproj", "{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarDemo", "CalendarDemo\CalendarDemo\CalendarDemo.csproj", "{19B41EE7-BFB6-46DC-8C0D-344E053C8064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F6A3E9-9FF0-4FEA-A639-F3770DA76066}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B41EE7-BFB6-46DC-8C0D-344E053C8064}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D67F041-F79C-414C-8E3B-B8F70FC48343}
+	EndGlobalSection
+EndGlobal
